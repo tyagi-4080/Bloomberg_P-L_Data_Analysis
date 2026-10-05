@@ -184,5 +184,5 @@ This repository is built for **educational and portfolio demonstration purposes*
 
 ### 👨‍💻 Created & Maintained by
 **Anurag Tyagi** — *Data Analyst*
-* 🔗 [LinkedIn](https://linkedin.com)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/anurag-tyagi-634a5a36b)
 * 📁 [GitHub Portfolio](https://github.com/tyagi-4080)
